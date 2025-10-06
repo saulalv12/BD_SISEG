@@ -11,7 +11,7 @@ tablas:
 
 * PERSONA (información principal del usuario)
 * ALUMNO (información extra del alumno)
-* P\_ADMIN (información extra del personal administrativo)
+* P_ADMIN (información extra del personal administrativo)
 * DIRECCION (dirección del alumno)
 * BITACORA (registro de acciones de los usuarios)
 * CODIGO QR (registro de código QR)
@@ -20,3 +20,5 @@ tablas:
 * PLAZA (catalogo de plazas)
 * EXPEDIENTE (registro de los archivos subidos por los alumnos)
 * Carrera (catalogo de carreras)
+* ESTATUS_ALUMNO (catalogo de estatus)
+* ESTATUS_P_ADMIN (catalogo de estatus)
