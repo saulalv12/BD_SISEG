@@ -20,5 +20,6 @@ tablas:
 * PLAZA (catalogo de plazas)
 * EXPEDIENTE (registro de los archivos subidos por los alumnos)
 * Carrera (catalogo de carreras)
-* ESTATUS_ALUMNO (catalogo de estatus)
-* ESTATUS_P_ADMIN (catalogo de estatus)
+* ESTATUS_ALUMNO (catalogo de estatus de alumno)
+* ESTATUS_P_ADMIN (catalogo de estatus del personal administrativo)
+* ESTATUS_QR (catalogo de estatus del código QR)
